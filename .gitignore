@@ -1,0 +1,14 @@
+# Виртуальное окружение Python (сотни мегабайт сторонних библиотек)
+.venv/
+venv/
+
+# Кэш редакторов кода
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+
+# Промежуточные папки 
+frames_check/
+rocket_frames/
+vape_extracted/
